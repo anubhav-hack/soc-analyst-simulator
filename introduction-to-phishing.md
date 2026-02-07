@@ -35,16 +35,16 @@ This simulator focuses on phishing-related alerts including:
 - User interaction analysis
 - Alert correlation across multiple data sources
 
-![alt text](1.png)
+![alt text](screenshots/1.png)
 
 There is currently **one alert** awaiting review.  
 Additionally, **four more alerts** are expected shortly if you prefer to wait before proceeding.
 
-![alt text](2.png)
+![alt text](screenshots/2.png)
 
 ## 8814 – Inbound Email Containing Suspicious External Link
 
-![alt text](3.png)
+![alt text](screenshots/3.png)
 
 ## Description
 
@@ -63,13 +63,13 @@ Hi Ms. Garcia,Welcome to TheTryDaily! As part of your onboarding, please complet
 
 **Direction:** Inbound
 
-![alt text](4.png)
+![alt text](screenshots/4.png)
 
-![alt text](5.png)
+![alt text](screenshots/5.png)
 
-![alt text](6.png)
+![alt text](screenshots/6.png)
 
-![alt text](7.png)
+![alt text](screenshots/7.png)
 
 ## 8815 – Inbound Email Containing Suspicious External Link
 
@@ -90,9 +90,9 @@ Dear Customer,We were unable to deliver your package due to an incomplete addres
 
 **direction:** inbound
 
-![alt text](8.png)
+![alt text](screenshots/8.png)
 
-![alt text](9.png)
+![alt text](screenshots/9.png)
 
 ## REPORT
 
@@ -144,9 +144,9 @@ This alert was triggered when a user attempted to access an external URL that is
 **Protocol:** TCP  
 **Rule:** Blocked Websites
 
-![alt text](10.png)
+![alt text](screenshots/10.png)
 
-![alt text](11.png)
+![alt text](screenshots/11.png)
 
 ## REPORT
 
@@ -213,9 +213,9 @@ Microsoft Account Security Team
 
 **direction:** inbound
 
-![alt text](12.png)
+![alt text](screenshots/12.png)
 
-![alt text](13.png)
+![alt text](screenshots/13.png)
 
 ## REPORT
 
@@ -278,11 +278,11 @@ Another false positive. Similar to the first one.
 
 Answer: No answer needed
 
-![alt text](14.png)
+![alt text](screenshots/14.png)
 
-![alt text](15.png)
+![alt text](screenshots/15.png)
 
-![alt text](16.png)
+![alt text](screenshots/16.png)
 
 
 
